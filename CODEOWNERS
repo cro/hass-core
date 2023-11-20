@@ -1055,6 +1055,8 @@ build.json @home-assistant/supervisor
 /homeassistant/components/repetier/ @MTrab @ShadowBr0ther
 /homeassistant/components/rflink/ @javicalle
 /tests/components/rflink/ @javicalle
+/homeassistant/components/rftoy/ @cro
+/tests/components/rftoy/ @cro
 /homeassistant/components/rfxtrx/ @danielhiversen @elupus @RobBie1221
 /tests/components/rfxtrx/ @danielhiversen @elupus @RobBie1221
 /homeassistant/components/rhasspy/ @balloob @synesthesiam
